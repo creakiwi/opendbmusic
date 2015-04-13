@@ -16,13 +16,11 @@ class Song
     private $albums;
 
     /**
-     *
      * @var \Doctrine\Common\Collections\ArrayCollection
      */
     private $artists;
 
     /**
-     *
      * @var \Doctrine\Common\Collections\ArrayCollection
      */
     private $tags;

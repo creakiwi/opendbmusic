@@ -11,7 +11,6 @@ use Doctrine\ORM\Mapping as ORM;
 class Album
 {
     /**
-     *
      * @var \Doctrine\Common\Collections\ArrayCollection
      */
     private $artists;
@@ -22,7 +21,6 @@ class Album
     private $songs;
 
     /**
-     *
      * @var \Doctrine\Common\Collections\ArrayCollection
      */
     private $tags;

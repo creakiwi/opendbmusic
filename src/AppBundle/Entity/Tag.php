@@ -11,19 +11,16 @@ use Doctrine\ORM\Mapping as ORM;
 class Tag
 {
     /**
-     *
      * @var \Doctrine\Common\Collections\ArrayCollection
      */
     private $albums;
 
     /**
-     *
      * @var \Doctrine\Common\Collections\ArrayCollection
      */
     private $artists;
 
     /**
-     *
      * @var \Doctrine\Common\Collections\ArrayCollection
      */
     private $songs;

@@ -16,7 +16,6 @@ class Artist
     private $albums;
 
     /**
-     *
      * @var \Doctrine\Common\Collections\ArrayCollection
      */
     private $tags;

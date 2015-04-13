@@ -10,7 +10,7 @@ use Nelmio\ApiDocBundle\Annotation\ApiDoc;
 use Symfony\Component\HttpFoundation\Request;
 
 /**
- * Description of SongController.
+ * SongController.
  *
  * @author Alex Ception <alexandre@creakiwi.com>
  */
